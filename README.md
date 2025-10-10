@@ -1,16 +1,32 @@
-## Hi there 👋
+# Abdelrahman Ismail
 
-<!--
-**Abodzaa/Abodzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Student of Artificial Intelligence and Data Science**
 
-Here are some ideas to get you started:
+Hello! I'm Abdelrahman Ismail, a senior student at Egypt-Japan University in Alexandria, specializing in Artificial Intelligence and Data Science. I am passionate about leveraging AI and data to solve complex problems and create meaningful impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills
+- **Programming:** Python, C++, C#, R, etc.
+- **Artificial Intelligence**
+- **Machine Learning**
+- **Deep Learning**
+- **Computer Vision**
+- **Natural Language Processing (NLP)**
+- **Data Analysis & Visualization**
+- **LLMs**
+
+---
+
+### 🎓 Education
+**Bachelor of Science in Artificial Intelligence and Data Science**  
+Egypt-Japan University of Science and Technology (E-JUST), Alexandria (2021 – Present)
+
+---
+
+### 📫 Contact Me
+- **Email:** Abdulrahmanmoamed2003@gmail.com  
+- **LinkedIn:** [linkedin.com/in/abdelrahman-ismail](#)
+- **GitHub:** [github.com/Abodzaa](https://github.com/Abodzaa)
+
+---
