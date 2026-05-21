@@ -1,58 +1,18 @@
-# Hi 👋 I'm Abdelrahman Ismail
+# 💫 About Me:
+Abdelrahman Mohamed Ismail<br>AI Engineer • Machine Learning Engineer • Computer Vision & Generative AI<br>abdulrahmanmoamed2003@gmail.com | <br>+201068751664 | <br>linkedin.com/in/abdelrahman-ismail-809553401 | <br>Alexandria, Egypt<br>github.com/Abodzaa<br>EDUCATION<br>Egypt-Japan University of Science & Technology (E-JUST)<br>B.Sc. Computer Science & IT — AI & Data Science Track | Alexandria, Egypt<br>Expected Jun 2026<br>▷ Coursework: Machine Learning, Deep Learning, NLP, Computer Vision, Data Mining, Blockchain, Algorithm Analysis<br>PROJECTS<br>Egyptian Constitution RAG Chatbot<br>LlamaIndex · ChromaDB · Hugging Face · FastAPI · Streamlit<br>▷ Designed and deployed a domain-specific RAG pipeline over the full Egyptian Constitutional corpus, enabling law<br>students to query legal content in natural Arabic with high semantic precision.<br>▷ Every answer is grounded in source documents — zero hallucinations; response latency consistently under 2 seconds.<br>Arabic Text-to-SQL System<br>Gemini 1.5 Flash · RAG · ChromaDB · FastAPI · Python<br>▷ Built a schema-aware NLP system that translates Arabic natural language into executable SQL, handling complex<br>multi-table schemas via structured prompt engineering and a RAG context layer.<br>▷ Achieved sub-1.5s end-to-end query latency on FastAPI; evaluated on the AR-Spider benchmark.<br>Zayed Heights Smart Compound — Mobile Application<br>Flutter · Supabase · Firebase · Dart<br>▷ Architected a full mobile ecosystem for a residential compound: role-based dashboards (residents, security, admins),<br>visitor management with approval workflows, and real-time push notifications.<br>▷ Currently in final QA; preparing for simultaneous submission to the iOS App Store and Google Play.<br>Brain Tumor Detection & Classification — Medical CV<br>TensorFlow · CNN · OpenCV · Python<br>▷ End-to-end medical imaging pipeline: custom CNN with augmentation and class-balancing achieved 98.07% valida<br>tion accuracy across four tumor classes on MRI scan data.<br>AI Stock Market Prediction Engine<br>MambaStock · MASTER · PyTorch · Python<br>▷ Trained and benchmarked MambaStock and MASTER architectures for financial time-series forecasting; built trend<br>analysis pipeline with interactive prediction visualization dashboards.<br>Smart Virtual Assistant with Vision-Based Controls<br>DeepFace · MediaPipe · Tesseract OCR · OpenCV · Python<br>▷ Developed a multimodal desktop assistant controlled through face recognition, real-time hand-gesture tracking, OCR<br>document reading, and voice commands — no keyboard or mouse required.<br>TRAINING & CERTIFICATIONS<br>Digital Egypt Pioneers Initiative (DEPI) — Generative AI Professional Track<br>Apr 2024– Oct 2024 · 200 h<br>▷ Mastered LLM architectures, GANs, and VAEs using TensorFlow, PyTorch, and Hugging Face.<br>▷ Built NLP pipelines (semantic search, QA, prompt engineering) and deployed AI apps with Streamlit and Flask.<br>National Technology Institute (NTI) — Creativa Innovation Hub · ML Trainee<br>Nov 2024– Jan 2025 · 120 h<br>▷ Built CV models for face detection and emotion classification; delivered ML projects using ensemble methods<br>(Random Forest, AdaBoost, KMeans) with full hyperparameter tuning and evaluation.<br>TECHNICAL SKILLS<br>AI & Machine Learning: TensorFlow, PyTorch, Scikit-Learn, CNN, RNN/LSTM, Transfer Learning<br>LLMs &Generative AI: RAG Pipelines, LlamaIndex, LangChain, Hugging Face, Prompt Engineering, Gemini API<br>Computer Vision: OpenCV, MediaPipe, DeepFace, Tesseract OCR, Image Classification<br>Mobile & Backend: Flutter, Supabase, Firebase, FastAPI, Flask, Streamlit<br>Languages: Python, SQL, C++, C#, Dart, JavaScript<br>Tools & Cloud: Git, GitHub, GCP, ChromaDB, Linux, Solidity, Ethereu
 
-🎓 AI & Data Science Student @ E-JUST  
-🤖 AI Engineer | NLP | Computer Vision | Generative AI  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-ismail-809553401) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abdulrahmanmoamed2003@gmail.com) 
 
-## 🌐 Connect with me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdulrahmanmoamed2003@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abodzaa&show_icons=true&theme=tokyonight" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abodzaa&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" height="150"/>
-
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Abodzaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Abodzaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abodzaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Abodzaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Tech Stack
-
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,ts,java,sql" />
-</p>
-
-### 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### 🌐 Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask" />
-</p>
-
-### 🛠 Developer Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
-
----
-
-## 🧠 Current Focus
-
-- 🤖 Building Smart AI Assistants  
-- 🔍 RAG Systems & Semantic Search  
-- ☁️ Deploying AI on Cloud (GCP)  
-- 🧠 Deep Diving into Algorithms & Databases  
-
----
-
-⭐ *Always building. Always learning.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
