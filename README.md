@@ -1,4 +1,4 @@
-# Hi 👋 I'm Abdelrahman Ismail
+#  👋 I'm Abdelrahman Ismail
 
 🤖 AI Engineer | Generative AI, Machine Learning & Computer Vision
 🛠️ Building End-to-End AI Solutions | FastAPI | Python
