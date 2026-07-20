@@ -4,7 +4,7 @@
 🛠️ Building End-to-End AI Solutions | FastAPI | Python
 📍 Cairo, Egypt
 
-AI Engineer with hands-on experience in Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, and Generative AI. I build and deploy end-to-end AI applications — from RAG systems and Arabic Text-to-SQL solutions to computer vision assistants and intelligent chatbots — and I enjoy turning AI research into practical, real-world products.
+AI Engineer with hands-on experience in Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, and Generative AI. I build and deploy end-to-end AI applications  from RAG systems and Arabic Text-to-SQL solutions to computer vision assistants and intelligent chatbots — and I enjoy turning AI research into practical, real-world products.
 
 🔭 Currently focused on: AI Engineering · Machine Learning Engineering · NLP Engineering · Computer Vision Engineering
 📬 Open to new opportunities — let's connect and build something impactful together.
