@@ -142,7 +142,12 @@ An autonomous agent that reviews code and gives structured feedback.
 
 ---
 ### 📊 GitHub Stats
-<table> <tr> <td valign="top"> <img src="https://github-readme-stats.shion.dev/api?username=Abodzaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> </td> <td valign="top"> <img src="./profile/streak.svg" alt="GitHub Streak" /> </td> </tr> </table> <p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abodzaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=8" /> </p>
+
+
+<img src="./profile/streak.svg" alt="GitHub Streak" /><br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abodzaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=8)
+
 ---
 ### 🎯 Current Focus
 - 🤖 Building Smart AI Assistants
