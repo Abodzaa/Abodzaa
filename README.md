@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Ismail</h1>
+<h1 align="center">Hi👋, I'm Abdelrahman Ismail</h1>
 <h3 align="center">🤖 AI Engineer | Generative AI, Machine Learning & Computer Vision</h3>
 <h4 align="center">🛠 Building End-to-End AI Solutions | FastAPI | Python &nbsp;·&nbsp; 📍 Cairo, Egypt</h4>
 
